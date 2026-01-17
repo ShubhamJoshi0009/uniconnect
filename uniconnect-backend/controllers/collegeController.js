@@ -3,5 +3,6 @@ export const getColleges = (req, res) => {
     { id: 1, name: "IIT Delhi" },
     { id: 2, name: "NIT Trichy" },
     { id: 3, name: "Meerut University" },
+    { id: 4, name: "Chandigarh University" },
   ]);
 };
